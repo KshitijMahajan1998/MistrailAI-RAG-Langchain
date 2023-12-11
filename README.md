@@ -4,7 +4,6 @@ Exercise Title: "Build a Contextual Q&A Bot using LLM.”
 
  
 
-Duration: 3-4 days
 
  
 
